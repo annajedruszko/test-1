@@ -1,6 +1,7 @@
 Edited file first line
-Second line
-Third line
+Second li
 
 <body>
 </body>
+<div>
+</div>
